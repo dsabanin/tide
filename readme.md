@@ -18,7 +18,7 @@ Handcrafted with love by Nico & Esteban @RMoD.
 
 You need to have nodejs installed on your system.
 
-Got to (http://nodejs.org) and install the nodejs installer for your operating system.
+Go to (http://nodejs.org) and install the nodejs installer for your operating system.
 ###Windows
 
 On Windows, download the msi and execute it. Install in an easy location(e.g. c:\nodejs) instead of in "Program Files", which has an annoying embedded space.
